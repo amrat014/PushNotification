@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937347070674",
+    "project_id": "push-notification-fireba-3f59c",
+    "storage_bucket": "push-notification-fireba-3f59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937347070674:android:a5f1c59f9e460011ef8b0b",
+        "android_client_info": {
+          "package_name": "com.oneroofit.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937347070674-9tepa1k6r3sj04sbbo640sa3mq166im6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8xHkIxKHSP8FCeO4AosCr0yQcwGufGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937347070674-9tepa1k6r3sj04sbbo640sa3mq166im6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
